@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "spikedepth"
+  site-url: "https://robeson1010.github.io/spikedepth"
+  description: "A spike network for depth estimation"
+  repo-branch: main
+  repo-url: "https://github.com/robeson1010/spikedepth"
